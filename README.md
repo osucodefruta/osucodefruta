@@ -44,11 +44,3 @@ Sistema de comandas e caixa para bares e restaurantes: mesas, cardápio, estoque
 ![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 
 **Também:** PWA · WebSocket · Netlify · Git · fluxo de desenvolvimento com IA (Claude, Codex, DeepSeek)
-
----
-
-## 📲 Me acompanhe
-
-🎥 TikTok · YouTube · Instagram: *(coloque aqui o link do seu link-in-bio)*
-
-![Stats](https://github-readme-stats.vercel.app/api?username=osucodefruta&show_icons=true&theme=tokyonight&hide_border=true)

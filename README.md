@@ -43,4 +43,4 @@ Sistema de comandas e caixa para bares e restaurantes: mesas, cardápio, estoque
 ![Phaser](https://img.shields.io/badge/-Phaser-8A2BE2?style=for-the-badge)
 ![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 
-**Também:** PWA · WebSocket · Netlify · Git · fluxo de desenvolvimento com IA (Claude, Codex, DeepSeek)
+**Também:** PWA · WebSocket · Netlify · Git ·

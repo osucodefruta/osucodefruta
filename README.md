@@ -1,4 +1,4 @@
-<h1 align="center">Junior | Desenvolvedor de Jogos Web & Sistemas</h1>
+<h1 align="center">Desenvolvedor de Jogos Web & Sistemas</h1>
 
 <p align="center">
   Transformo ideias em jogos e aplicações que rodam direto no navegador, no desktop e no celular.

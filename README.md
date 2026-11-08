@@ -8,7 +8,7 @@
 ## 🚀 Projetos em destaque
 
 ### 🏰 Mists of Cracovia
-RPG completo em um único arquivo HTML: sistema de áudio, tela de abertura, travas de classe e atalhos de teclado.
+RPG completo: sistema de áudio, tela de abertura, travas de classe e atalhos de teclado.
 `JavaScript` `HTML` `CSS`
 
 ### 🕹️ Jogo idle/RPG multiplayer online
